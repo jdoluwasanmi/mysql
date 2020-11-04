@@ -164,3 +164,9 @@ CREATE TABLE IF NOT EXISTS products (
        );
 show tables;
 DESCRIBE products;
+
+
+***link for mysql beginners***
+https://www3.ntu.edu.sg/home/ehchua/programming/sql/MySQL_Beginner.html
+
+
